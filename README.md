@@ -1,6 +1,10 @@
 # Front-end-challenge-sites
 List of Awesome Front end Challenge Sites
 
+![image](https://img.shields.io/github/contributors/skarthikeyan96/Front-end-challenge-sites?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/skarthikeyan96/Front-end-challenge-sites?style=flat-square)
+
+
 |Site Name          |Site Link                                |
 |-------------------|-----------------------------------------|
 |Front end Mentor   |https://www.frontendmentor.io/challenges/|
